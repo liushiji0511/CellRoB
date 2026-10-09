@@ -1,0 +1,16 @@
+_source_snapshot/
+_local_notes/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+data/
+results/
+cellrob_result/
+*.npy
+*.h5ad
+.DS_Store
+.idea/
+CellRoB-github.zip
